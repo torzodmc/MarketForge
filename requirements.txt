@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+torch
+tqdm
+mesa
+ripser
+persim
